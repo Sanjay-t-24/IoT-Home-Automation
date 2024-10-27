@@ -26,7 +26,7 @@ This project demonstrates a home automation system utilizing **PICSimLab** to co
 
 ### 1. Setup PICSimLab
 
-- Download and install [PICSimLab]([http://sourceforge.net/projects/picsimlab/](https://sourceforge.net/projects/picsim/)).
+- Download and install [PICSimLab]([https://sourceforge.net/projects/picsim/]).
 - Load the project simulation file or set up a new project with the necessary components (temperature and humidity sensors, relay for lights, etc.).
   
 ### 2. Connect to Blynk IoT
